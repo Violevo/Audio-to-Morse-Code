@@ -4,4 +4,5 @@ Records audio through mic, then converts audio to string and converts to morse c
 
 To run the code, (prefferably on rasberry pi), run the "Run.py" file and speak into the microphone. The program will then record an audio and turn it into a morse code GPIO signal which can controll an electrical component - Connect an LED for example and you should be able to listen into to someone speaking, without needing to hear them.
 
+Shool Project
 
